@@ -4,7 +4,7 @@ This project demonstrates how to generate **Adverse Event (AE) summary tables** 
 
 The workflow replicates regulatory-compliant safety reporting by:  
 - Using **ADSL (Subject-Level Analysis Dataset)** to derive treatment population counts.  
-- Using **ADAE (Adverse Events Analysis Dataset)** to summarize adverse events by subject, treatment arm, and severity.  
+- Using **ADAE (Adverse Events Analysis Dataset)** to summarize adverse events by system organ class and treatment arm.
 - Producing formatted **AE incidence tables** similar to those submitted in regulatory filings.  
 
 
